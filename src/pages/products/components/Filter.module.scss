@@ -1,0 +1,19 @@
+.filter{
+    background: #fff;
+    border-radius: .5rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    .title{
+        font-size: 25px;
+        padding: 20px;
+
+    }
+    .line {
+        width: 100%;
+        border-top:1px solid #ccc;
+        height: 1px;
+    }
+    .search {
+        font-size: 25px;
+        padding: 20px;
+    }
+}
